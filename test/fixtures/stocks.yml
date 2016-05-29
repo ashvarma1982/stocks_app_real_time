@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticker: MyString
+  string,name: MyString
+  string,: MyString
+  open_price: MyString
+  decimal,: MyString
+  close_price: MyString
+  decimal: MyString
+
+two:
+  ticker: MyString
+  string,name: MyString
+  string,: MyString
+  open_price: MyString
+  decimal,: MyString
+  close_price: MyString
+  decimal: MyString
